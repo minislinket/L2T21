@@ -5,7 +5,7 @@ in the `Home` tab,  Search for the media you would like to add to your favourite
 
 Click on the `Add to Favourites` button to add any specific media to your favourites. Go to the `Favourites` tab to view all the media that you added to your favourties. You may remove any media from your `Favourites` by clicking on the `Remove from Favourites` button in the `Favourites` tab.
 #
-If you would like to run this application locally, clone this project from the [repository].
+If you would like to run this application locally, clone this project from the [repository] https://github.com/minislinket/L2T21.
 
 
 (i Usualy have two terminals running at the same time in my VScode one in the backend or server folder and the other in the front end/react folder, Remeber both servers must be installed and running for the app to work.)
